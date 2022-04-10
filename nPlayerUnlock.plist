@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Executables = (
+			nPlayer,
+		);
+		Bundles = (
+			"com.newin.nplayer.basic",
+		);
+	};
+}
